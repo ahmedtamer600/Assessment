@@ -1,0 +1,70 @@
+C:\Users\IT\Desktop\Assessment Ahmed tamer\bin\Debug\Assessment Ahmed tamer.exe.config
+C:\Users\IT\Desktop\Assessment Ahmed tamer\bin\Debug\Assessment Ahmed tamer.exe
+C:\Users\IT\Desktop\Assessment Ahmed tamer\bin\Debug\Assessment Ahmed tamer.pdb
+C:\Users\IT\Desktop\Assessment Ahmed tamer\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\Assessment Ahmed tamer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\Assessment Ahmed tamer\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\Assessment Ahmed tamer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Forgetpass.g.cs
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Login.g.cs
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Profile.g.cs
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Signup.g.cs
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer_Content.g.cs
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer_MarkupCompile.cache
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer_MarkupCompile.lref
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\App.baml
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Forgetpass.baml
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Login.baml
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Profile.baml
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Signup.baml
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer.g.resources
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment_Ahmed_tamer.Properties.Resources.resources
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer.csproj.CopyComplete
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer.exe
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\Assessment Ahmed tamer.pdb
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\newprofile.g.cs
+C:\Users\IT\Desktop\Assessment Ahmed tamer\obj\Debug\newprofile.baml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\bin\Debug\Assessment Ahmed tamer.exe.config
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\bin\Debug\Assessment Ahmed tamer.exe
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\bin\Debug\Assessment Ahmed tamer.pdb
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Forgetpass.g.cs
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Login.g.cs
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\newprofile.g.cs
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Profile.g.cs
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Signup.g.cs
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer_Content.g.cs
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer_MarkupCompile.cache
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer_MarkupCompile.lref
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\App.baml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Forgetpass.baml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Login.baml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\newprofile.baml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Profile.baml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Signup.baml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer.g.resources
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment_Ahmed_tamer.Properties.Resources.resources
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer.csproj.CopyComplete
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer.exe
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Assessment Ahmed tamer.pdb
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Adminlogin.g.cs
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Adminpage.g.cs
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Adminlogin.baml
+C:\Users\IT\Desktop\Ahmed Tamer W4 0522007\Ahmed Tamer 0522007 W4\obj\Debug\Adminpage.baml
